@@ -20,6 +20,7 @@ section#menu {
 }
 
 section#menu ul{
+    position: absolute;
     list-style: none;  
     margin: auto;
 }
