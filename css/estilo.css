@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgb(29, 137, 180);
+}
+
+h1{
+    text-decoration: underline;
+    font-family: Arial;
+}
+
+p{
+    color: rgb(21, 9, 129);
+}
+
+header::menu{
+    list-style-type: none;
+    text-align: center;
+}
