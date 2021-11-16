@@ -10,6 +10,12 @@ h1{
     color: rgb(255, 0, 0);
 }
 
+h2 {
+    text-decoration: underline;
+    font-family: 'Courier New';
+    color:brown;
+}
+
 p{
     color: rgb(161, 0, 0);
     text-decoration: underline;
