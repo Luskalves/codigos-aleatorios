@@ -12,6 +12,7 @@ h1{
 
 p{
     color: rgb(161, 0, 0);
+    text-decoration: underline;
 }
 
 section#menu {
@@ -20,6 +21,7 @@ section#menu {
 }
 
 section#menu ul{
+    
     position: absolute;
     list-style: none; 
     margin-top: 0%;
