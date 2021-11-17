@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(128, 125, 125);
 }
 
 h1{
@@ -22,7 +22,6 @@ p{
 }
 
 section#menu {
-    background-color: rgb(255, 255, 255);
     padding: 10px;
 }
 
@@ -49,4 +48,26 @@ section#sua_mae h3{
 section#sua_mae p{
     font-family: Arial;
     color: rgb(rgb(138, 24, 24), rgb(34, 80, 34), rgb(1, 1, 85));
+}
+
+section#teste h2{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+
+section#teste p{
+    text-decoration: underline;
+}
+
+section#produtos ul{
+    list-style: none;
+    padding: 5px;
+    padding-top: 10px;
+}
+
+section#produtos li{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(238, 255, 0);
+    font-size: x-large;
+    box-shadow: 3px;
 }
